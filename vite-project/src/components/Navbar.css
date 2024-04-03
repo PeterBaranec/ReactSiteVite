@@ -2,6 +2,9 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: #21222A;
+    padding: 1rem;
+    color: #ffffff;
 }
 
 .nav-logo {
@@ -9,4 +12,9 @@
     justify-content: center;
     align-items: center;
     gap: 10px;
+}
+
+.nav-title {
+    color: #61DAFB;
+    font-size: 1.3906rem;
 }
